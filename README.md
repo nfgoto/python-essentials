@@ -1,1 +1,1 @@
-# python-essentials
+# Python essentials for JavaScript / Node.js Developers
